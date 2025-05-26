@@ -1,5 +1,6 @@
 # Vector Blender Animation
-Cascadeur, Blender scenes and addon to animate custom animations for Vector.
+Cascadeur, Blender scenes and addon to animate custom animations for Vector. 
+Also allows to view Vector and Shadow Fight 2 animations in Blender.
 
 ## About The Addon
 Vector Animation addon let you import decompiled animation bin from the game into Blender, and export animation into .bindec to compile and use in-game.
@@ -45,8 +46,8 @@ Cascadeur Rig:
 
 **Importing:**
  * It is recommended to use Vector Rig Node Only version.
- * To import animation, you have to decompile .bin using Vectorier first. The project should also comes with the decompiled vector animation dz folder.
- * Click import animation, you can now choose the .bindec you've decompiled to import the animation into blender.
+ * To import animation, you have to decompile .bin into .xml or .bindec using Vectorier first. The project should also comes with the decompressed vector animation dz folder.
+ * Click import animation, you can now choose the .bindec or .xml you've decompiled to import the animation into blender.
 
 # Animating in Cascadeur
 As Cascadeur is required for this method, you need to download Cascadeur at their webstite - [Download Cascadeur](https://cascadeur.com)
